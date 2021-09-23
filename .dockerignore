@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.mo
+*.db
+.cache
+.DS_Store
+.git/
+.gitignore
+__pycache__
+**/migrations/*_*.py
+*.DS_Store
+**/__pycache__
+**/.DS_Store
+db.sqlite3

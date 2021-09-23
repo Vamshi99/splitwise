@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.mo
+*.db
+.cache
+__pycache__
+**/migrations/0*_*.py
+**/__pycache__
+**/.DS_Store
+**/__pycache__
+**/.DS_Store
+db.sqlite3
