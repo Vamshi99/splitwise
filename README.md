@@ -1,7 +1,10 @@
-# Splitwise
+# Splitwise 
 A django application which exposes APIs required for Splitwise, to manage expenses and settlements between users.
 
-## Docker Image Size: 
+`Postman Collection file`:  Splitwise API.postman_collection.json (present in root directory)
+
+`Docker Image Size`: 90MB 
+
 ## Design
 
 #### Models: 
